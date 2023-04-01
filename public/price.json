@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "features": [
+      "Access to gym facilities",
+      "Cardio equipment",
+      "Strength training equipment"
+     
+    ],
+    "monthlyFee": 20,
+    "imageLink": "https://example.com/basic_membership.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "features": [
+      "Access to gym facilities",
+      "Cardio equipment",
+      "Strength training equipment",
+      "Locker room access",
+      "Free weights",
+      "Fitness assessment"
+      
+    ],
+    "monthlyFee": 40,
+    "imageLink": "https://example.com/premium_membership.jpg"
+  },
+  {
+    "id": 3,
+    "name": "VIP Membership",
+    "features": [
+      "Access to gym facilities",
+      "Cardio equipment",
+      "Strength training equipment",
+      "Locker room access",
+      "Free weights",
+      "Fitness assessment",
+      "Unlimited gym access 24/7"
+     
+    ],
+    "monthlyFee": 80,
+    "imageLink": "https://example.com/vip_membership.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Student Membership",
+    "features": [
+      "Access to gym facilities",
+      "Cardio equipment",
+      "Strength training equipment",
+      "Locker room access",
+      "Free weights"
+     
+    ],
+    "monthlyFee": 15,
+    "imageLink": "https://example.com/student_membership.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Senior Membership",
+    "features": [
+      "Access to gym facilities",
+      "Cardio equipment",
+      "Strength training equipment",
+      "Locker room access"
+      
+    ],
+    "monthlyFee": 10,
+    "imageLink": "https://example.com/senior_membership.jpg"
+  }
+]
